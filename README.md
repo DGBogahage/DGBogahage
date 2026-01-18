@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 Hello! My name is **Disath Bogahage** 👋  
-🎓 First-year IT Undergraduate  
+🎓 Bsc(Hons)Information System Undergraduate  
 💡 Interested in Web Development & Software Engineering  
 🚀 Passionate about learning new technologies
 

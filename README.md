@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, Welcome!
 
-<!--
-**DGBogahage/DGBogahage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](disathgeethaka@gmail.com.png)
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+Hello! My name is **Disath Bogahage** 👋  
+🎓 First-year IT Undergraduate  
+💡 Interested in Web Development & Software Engineering  
+🚀 Passionate about learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+- HTML, CSS, JavaScript
+- Java
+- Python
+- MySQL
+- Git & GitHub
+
+---
+
+## 💻 Skills
+- Frontend Development  
+- Basic Backend Concepts  
+- Problem Solving  
+
+---
+
+## 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: disathgeethaka@gmail.com  
+- 🌐 Portfolio: https://your-portfolio-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/disath-bogahage-82712832a/
+
+---
+
+## ⚡ Fun Fact
+⚡ I love building projects that improve my skills and career 🚀

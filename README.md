@@ -28,7 +28,7 @@ Hello! My name is **Disath Bogahage** 👋
 
 ## 🛠 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode" />
 </p>
 
 ---
